@@ -64,10 +64,10 @@ Now to install Vite, run:
 
 ```npx vite``` 
 
-Once the installation is completed, run: 
+After the installation, run: 
 
-```npm install``` and hit enter and wait for it to finish installing. 
+```npm install``` and wait for it to finish installing. 
 
 Once you have all of that done, you may now successfully run: ```npm run dev```
 
-If you want to know more details about Vite, I recommend you visit the website: https://vite.dev/guide/ 
+If you want to know more details about Vite, I recommend you to visit their website: https://vite.dev/guide/ 
