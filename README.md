@@ -30,7 +30,7 @@ This section is a list of tools I used for this project:
 
   - Tailwind CSS 
 
-  - Animated hamburger menu API [https://hamburger-react.netlify.app/] 
+  - Animated hamburger menu API: https://hamburger-react.netlify.app/
 
  
 
