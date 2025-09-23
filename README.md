@@ -68,6 +68,6 @@ After the installation, run:
 
 ```npm install``` and wait for it to finish installing. 
 
-Once you have all of that done, you may now successfully run: ```npm run dev```
+Once you have all of that done, you may successfully run: ```npm run dev```
 
 If you want to know more details about Vite, I recommend you to visit their website: https://vite.dev/guide/ 
