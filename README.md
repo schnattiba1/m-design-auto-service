@@ -46,10 +46,8 @@ Once you cloned this repository into your local computer, you need to navigate t
 
 ```cd m-design-auto-service ```
 
-And hit enter 
-
 While you’re in the root directory folder, if you have Vite installed, run: 
-```npm install``` and after that run: ```npm run dev```. 
+```npm install``` and after that run: ```npm run dev```
 Your localhost address should appear on your command line on VSCode or whatever command line you are currently using. 
 
 **NOTE:** If you do not have Node.js installed on your computer, you may not be able to run this project. To install Node.js, go to their following website: https://nodejs.org/en  
