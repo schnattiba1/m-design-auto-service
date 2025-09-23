@@ -49,10 +49,10 @@ Once you cloned this repository into your local computer, you need to navigate t
 And hit enter 
 
 While you’re in the root directory folder, if you have Vite installed, run: 
-```npm install``` and after that run: ```npm run dev``` and hit enter. 
+```npm install``` and after that run: ```npm run dev```. 
 Your localhost address should appear on your command line on VSCode or whatever command line you are currently using. 
 
-NOTE: If you do not have Node.js installed on your computer, you may not be able to run this project. To install Node.js, go to this following website: https://nodejs.org/en  
+**NOTE:** If you do not have Node.js installed on your computer, you may not be able to run this project. To install Node.js, go to their following website: https://nodejs.org/en  
 
 If you do not have Vite installed, please look at the installation. 
 
@@ -66,10 +66,10 @@ Now to install Vite, run:
 
 ```npx vite``` 
 
-Once the installation has been finished, run: 
+Once the installation is completed, run: 
 
 ```npm install``` and hit enter and wait for it to finish installing. 
 
 Once you have all of that done, you may now successfully run: ```npm run dev```
 
-If you want to know more about Vite, I recommend you visit this website: https://vite.dev/guide/ 
+If you want to know more about Vite, I recommend you visit Veit's website: https://vite.dev/guide/ 
