@@ -1,12 +1,77 @@
-# React + Vite
+# M Design Auto Service
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction 
 
-Currently, two official plugins are available:
+  M Design Auto Service is an auto repair shop located in, Lusk, Dublin, Ireland. They do: 
+  
+  - Car services 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - Exhausts 
 
-## Expanding the ESLint configuration
+  - Batteries 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  - Tyres 
+
+  - Computer Diagnoses 
+
+  - Engine Rebuilds 
+
+ 
+
+## Tools  
+
+This section is a list of tools I used for this project: 
+
+  - React.js 
+
+  - Vite  
+
+  - CSS 
+
+  - Tailwind CSS 
+
+  - Animated hamburger menu API [https://hamburger-react.netlify.app/] 
+
+ 
+
+## Getting started 
+
+To run this project, you must **first** clone this repository into your local computer: 
+
+```git clone https://github.com/schnattiba1/m-design-auto-service.git```
+
+ 
+
+Once you cloned this repository into your local computer, you need to navigate to the m-design-auto-service directory folder by typing: 
+
+```cd m-design-auto-service ```
+
+And hit enter 
+
+While you’re in the root directory folder, if you have Vite installed, run: 
+```npm install``` and after that run: ```npm run dev``` and hit enter. 
+Your localhost address should appear on your command line on VSCode or whatever command line you are currently using. 
+
+NOTE: If you do not have Node.js installed on your computer, you may not be able to run this project. To install Node.js, go to this following website: https://nodejs.org/en  
+
+If you do not have Vite installed, please look at the installation. 
+
+ 
+
+## Installation 
+
+To install Vite, you need to have Node.js installed on your computer. 
+
+Now to install Vite, run: 
+
+```npx vite``` 
+
+Once the installation has been finished, run: 
+
+```npm install``` and hit enter and wait for it to finish installing. 
+
+Once you have all of that done, you may now successfully run: ```npm run dev```
+
+If you want to know more about Vite, I recommend you visit this website: 
+
+https://vite.dev/guide/ 
