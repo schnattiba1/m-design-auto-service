@@ -72,6 +72,4 @@ Once the installation has been finished, run:
 
 Once you have all of that done, you may now successfully run: ```npm run dev```
 
-If you want to know more about Vite, I recommend you visit this website: 
-
-https://vite.dev/guide/ 
+If you want to know more about Vite, I recommend you visit this website: https://vite.dev/guide/ 
