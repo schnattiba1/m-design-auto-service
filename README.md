@@ -39,10 +39,12 @@ To run this project, you must clone this repository into your computer:
 ```git clone https://github.com/schnattiba1/m-design-auto-service.git```
 
  
- Once you it's cloned, you need to navigate to the m-design-auto-service directory folder by typing: 
+ Once you it's cloned, you must navigate to the directory folder named: 'm-design-auto-service': 
 
 ```cd m-design-auto-service ```
 
 
 In the root directory folder, if you have Vite and Node.js installed, run: 
-```npm install``` once it's finished, run: ```npm run dev```.
+```npm install``` - To install packages
+
+```npm run dev``` - To run the entire project
