@@ -36,38 +36,15 @@ This section is a list of tools I used for this project:
 
 ## Getting started 
 
-To run this project, you must **first** clone this repository into your local computer: 
+To run this project, you must clone this repository into your computer: 
 
 ```git clone https://github.com/schnattiba1/m-design-auto-service.git```
 
  
- Once you cloned this repository into your local computer, you need to navigate to the m-design-auto-service directory folder by typing: 
+ Once you it's cloned, you need to navigate to the m-design-auto-service directory folder by typing: 
 
-```cd m-design-auto-service ``` and hit enter.
+```cd m-design-auto-service ```
 
 
-While you’re in the root directory folder, if you have Vite installed, run: 
-```npm install``` and after that run: ```npm run dev```.
-Your localhost address should appear on your command line on VSCode or whatever command line you are currently using. 
-
-**NOTE:** If you do not have Node.js installed on your computer, you may not be able to run this project. To install Node.js, you must go to their following website: https://nodejs.org/en  
-
-If you do not have Vite installed, please look at the installation. 
-
- 
-
-## Installation 
-
-To install Vite, you need to have Node.js installed on your computer. 
-
-Now to install Vite, run: 
-
-```npx vite``` 
-
-After the installation, run: 
-
-```npm install``` and wait for it to finish installing. 
-
-Once you have all of that done, you may successfully run: ```npm run dev```
-
-If you want to know more details about Vite, I recommend you to visit their website: https://vite.dev/guide/ 
+In the root directory folder, if you have Vite and Node.js installed, run: 
+```npm install``` once it's finished, run: ```npm run dev```.
