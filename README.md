@@ -1,5 +1,6 @@
 # M Design Auto Service
 
+
 ## Introduction 
 
   M Design Auto Service is an auto repair shop located in, Lusk, Dublin, Ireland. They do: 
@@ -16,6 +17,7 @@
 
   - Engine Rebuilds 
 
+
  
 
 ## Tech Stack
@@ -29,6 +31,8 @@
   - Tailwind CSS 
 
   - Animated hamburger menu API: https://hamburger-react.netlify.app/
+
+
 
  
 
@@ -45,6 +49,7 @@ To run this project, you must clone this repository into your computer:
 
 
 In the root directory folder, if you have Vite and Node.js installed, run: 
+
 ```npm install``` - To install packages
 
 ```npm run dev``` - To run the entire project
