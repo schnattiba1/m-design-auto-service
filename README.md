@@ -20,8 +20,6 @@
 
 ## Tech Stack
 
-This section is a list of tools I used for this project: 
-
   - React.js 
 
   - Vite  
