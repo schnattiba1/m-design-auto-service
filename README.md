@@ -43,7 +43,7 @@ To run this project, you must clone this repository into your computer:
 ```git clone https://github.com/schnattiba1/m-design-auto-service.git```
 
  
- Once you it's cloned, you must navigate to the directory folder named: 'm-design-auto-service': 
+ Once it's cloned, you must navigate to the directory folder named: 'm-design-auto-service': 
 
 ```cd m-design-auto-service ```
 
